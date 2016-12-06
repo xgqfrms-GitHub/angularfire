@@ -23,6 +23,34 @@ https://firebase.google.com/docs/reference/
 ## Firebase CLI 引用  
 https://firebase.google.com/docs/cli/  
 
+## Firebase Cloud Messaging HTTP 协议  
+https://firebase.google.com/docs/cloud-messaging/http-server-ref  
+
+## Firebase Cloud Messaging XMPP 协议  
+https://firebase.google.com/docs/cloud-messaging/xmpp-server-ref  
 
 
+## Web Full API Reference  
+https://firebase.google.com/docs/reference/js/  
+https://firebase.google.com/docs/reference/js/index-all  
+
+## 将 Firebase 添加至您的网络项目  
+https://firebase.google.com/docs/web/setup  
+
+
+## 示例  
+https://firebase.google.com/docs/samples/#web  
+https://github.com/firebase/?utf8=%E2%9C%93&q=angular&type=&language=  
+
+
+https://github.com/firebase/angularfire  
+https://github.com/firebase/angularfire-seed  
+https://github.com/firebase/quickstart-nodejs  
+
+
+## stackoverflow & firebase  
+
+https://stackoverflow.com/documentation/firebase/816/getting-started-with-firebase  
+
+https://stackoverflow.com/documentation/firebase/  
 
